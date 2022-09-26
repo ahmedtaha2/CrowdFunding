@@ -1,7 +1,7 @@
 # CrowdFunding
-packages needed to be installed :
+packages needed to be installed
   *pip install django
-  -pip install social-auth-app-django
+  *pip install social-auth-app-django
   -pip install six
   -pip install django-sslserver
   -pip install django-taggit
